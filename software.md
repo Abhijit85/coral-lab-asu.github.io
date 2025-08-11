@@ -2,10 +2,14 @@
 title: Software
 permalink: /software/
 ---
+<div class="software-page">
+<h3>Software Projects</h3>
 
-A list of software projects, their release dates, and demo links.
-
-| Software | Date | Demo |
-| -------- | ---- | ---- |
-| Example Project | Jan 2025 | [Demo](https://example.com) |
+<ul class="software-list">
+  <li><b>Example Project</b><br>
+  Jan 2025,
+  <a href="https://example.com">Demo</a>
+  </li>
+</ul>
+</div>
 
