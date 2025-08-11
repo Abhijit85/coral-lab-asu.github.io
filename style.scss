@@ -547,3 +547,18 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
+
+// software page styling
+.software-page {
+  color: #8C1D40; // ASU maroon for text
+}
+
+.software-page a {
+  color: #8C1D40;
+}
+
+.software-list li {
+  background-color: #FFC627; // ASU gold for box
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+}
